@@ -3,6 +3,8 @@
 JOBS=$(ls ./jobs/abci.job.run.*)
 echo $JOBS
 
+
+#### it is required 
 GROUPID=
 
 N=1
