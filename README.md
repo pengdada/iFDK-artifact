@@ -17,6 +17,10 @@ We make a folder, called "local" at user's home directory.
 
 ## DATA
 
+## how to run
+
+-- Generating projection by run script ./generate-projections.sh
+
 
 ## BENCHMARKS
 The related benchmarks can be found in follows:
