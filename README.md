@@ -22,7 +22,7 @@ We make a folder, called "local" at user's home directory.
 
         tools/phantom3d/phantom3d.m
 
--- Generate 2D projection
+- Generate 2D projection
 
         ./generate-projections.sh    
 
