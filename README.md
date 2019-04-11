@@ -19,7 +19,7 @@ We make a folder, called "local" at user's home directory.
 
 ## how to run
 
--- Generating projection by run script ./generate-projections.sh
+- Generating projection by run script ./generate-projections.sh
 
 
 ## BENCHMARKS
