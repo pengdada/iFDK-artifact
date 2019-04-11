@@ -11,6 +11,8 @@ The following libraries and tools are requirements:
     INTEL MPI 2018.2.199
     INTEL IPP 2018.2.199
     Malab R2018a
+    Insight Segmentation and Registration Toolkit (ITK)
+    Reconstruction Toolkit (RTK)
     
 ## BUILD/RUN-TIME ENVIRONMENT
 
@@ -50,6 +52,7 @@ The following libraries and tools are requirements:
 
 ## BENCHMARKS
 The related benchmarks can be found in follows:
+
 https://www.openrtk.org/
 
 https://github.com/LLNL/ior
@@ -60,6 +63,8 @@ https://docs.nvidia.com/cuda/cuda-samples/index.html
 
 https://jp.mathworks.com/matlabcentral/fileexchange/9416-3d-shepp-logan-phantom?s_tid=mwa_osa_a
     
+https://www.openrtk.org/    
+
 
 ## MORE INFORMATION
 For more information or questions, contact the authors at chinhou0718#gmail.com (replace # by @, please)
