@@ -8,6 +8,7 @@ The following libraries and tools are requirements:
 
     cmake = 3.1
     CUDA =9.0
+    python >= 2.7
     INTEL MPI 2018.2.199
     INTEL IPP 2018.2.199
     Malab R2018a
