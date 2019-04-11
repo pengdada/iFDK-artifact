@@ -6,8 +6,8 @@ This repository contains the execution modules, job scripts on HPC and benchmark
 We tested on ABCI, using Nvidia Volta V100 GPUs, with GCC 4.8 and NVCC 9.0. 
 The following libraries and tools are requirements:
 
-    cmake >= 3.1
-    CUDA >=9.0
+    cmake = 3.1
+    CUDA =9.0
     INTEL MPI 2018.2.199
     INTEL IPP 2018.2.199
     
