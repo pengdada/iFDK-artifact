@@ -10,12 +10,14 @@ The following libraries and tools are requirements:
     CUDA =9.0
     INTEL MPI 2018.2.199
     INTEL IPP 2018.2.199
+    Malab R2018a
     
 ## BUILD/RUN-TIME ENVIRONMENT
 We make a folder, called "local" at user's home directory.
 
 
 ## DATA
+wget 
 
 ## how to run
 
