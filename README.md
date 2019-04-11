@@ -48,7 +48,6 @@ The following libraries and tools are requirements:
         ./run.sh weak4k
         ./run.sh weak8k
 
-- Generating projection by run script ./generate-projections.sh
 
 ## BENCHMARKS
 The related benchmarks can be found in follows:
