@@ -7,7 +7,7 @@ We tested on ABCI, using Nvidia Volta V100 GPUs, with GCC 4.8 and NVCC 9.0.
 The following libraries and tools are requirements:
 
     cmake = 3.1
-    CUDA =9.0
+    CUDA = 9.0
     python >= 2.7
     INTEL MPI 2018.2.199
     INTEL IPP 2018.2.199
@@ -48,6 +48,10 @@ The following libraries and tools are requirements:
         ./run.sh weak2k
         ./run.sh weak4k
         ./run.sh weak8k
+
+- Run benchmarks
+
+
 
 
 ## BENCHMARKS
