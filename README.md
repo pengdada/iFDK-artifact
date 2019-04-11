@@ -70,5 +70,6 @@ https://jp.mathworks.com/matlabcentral/fileexchange/9416-3d-shepp-logan-phantom?
 https://www.openrtk.org/    
 
 
-## MORE INFORMATION
+
+## Help/Support:
 For more information or questions, contact the authors at chinhou0718#gmail.com (replace # by @, please)
