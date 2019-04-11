@@ -30,7 +30,14 @@ We make a folder, called "local" at user's home directory.
         python gen-jobs.py weak4k
         python gen-jobs.py weak8k
 
+- Run jobs in the Root-folder of iFDK-archifact
 
+        ./run.sh strong2k
+        ./run.sh strong4k
+        ./run.sh strong8k
+        ./run.sh weak2k
+        ./run.sh weak4k
+        ./run.sh weak8k
 
 - Generating projection by run script ./generate-projections.sh
 
