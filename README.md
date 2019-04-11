@@ -23,18 +23,12 @@ We make a folder, called "local" at user's home directory.
 
 - Generating job script by run scrip in folder jobs/generate-jobs as
 
--- python gen-jobs.py strong2k
-
--- python gen-jobs.py strong4k
-
--- python gen-jobs.py strong8k
-
-
--- python gen-jobs.py weak2k
-
--- python gen-jobs.py weak4k
-
--- python gen-jobs.py weak8k
+        python gen-jobs.py strong2k
+        python gen-jobs.py strong4k
+        python gen-jobs.py strong8k
+        python gen-jobs.py weak2k
+        python gen-jobs.py weak4k
+        python gen-jobs.py weak8k
 
 
 
