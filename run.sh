@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# for scaling evaluation on abci hpc
+
 # repeate N times
 
 N=1
