@@ -13,7 +13,6 @@ The following libraries and tools are requirements:
     Malab R2018a
     
 ## BUILD/RUN-TIME ENVIRONMENT
-We make a folder, called "local" at user's home directory.
 
 
 ## DATA
