@@ -10,8 +10,7 @@ src_dir ='./data/'
 dst_dir ='./dump/'
 MAX_PROJ_DB = 32768
 
-#base_path = "./abci/__abci.job.run.strong.sh"
-base_path = "__abci.job.run.strong.sh"
+base_path = "__abci.job.run.sh"
 
 def generate_job(NP, NPP, ROWS, NX, NY, NZ, NU, NV, PROJS, SRC_DIR, DST_DIR, base):
 	job_name = 'abci.job.run.%04d_%04d_%04d_%04d_%04d_%04d.sh' % (NP, NPP, ROWS, NX, NY, NZ)
