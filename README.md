@@ -17,11 +17,17 @@ We make a folder, called "local" at user's home directory.
 
 
 ## DATA
-wget 
+
+- Generate 3D shepp-logan phantom by Matlab script as
+
+        tools/phantom3d/phantom3d.m
+
+-- Generate 2D projection
+
+        ./generate-projections.sh    
+
 
 ## how to run
-
-- Generating projection by run script ./generate-projections.sh
 
 - Generating job script by run scrip in folder jobs/generate-jobs as
 
