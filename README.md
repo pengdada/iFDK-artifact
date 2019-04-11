@@ -3,7 +3,7 @@ We use ABCI (https://abci.ai/) HPC to solve the high-resolution image reconstruc
 This repository contains the execution modules, job scripts on HPC and benchmarks.
 
 ## DEPENDENCIES
-We tested on ABCI, using Nvidia Volta V100 GPUs, with GCC 4.8 and NVCC 9.0. 
+We tested on ABCI, using Nvidia Volta V100 GPUs, with GCC 4.8 and NVCC 9.0.
 The following libraries and tools are requirements:
 
     cmake = 3.1
@@ -14,7 +14,7 @@ The following libraries and tools are requirements:
     Malab R2018a
     Insight Segmentation and Registration Toolkit (ITK)
     Reconstruction Toolkit (RTK)
-    
+
 ## BUILD/RUN-TIME ENVIRONMENT
 
 
@@ -29,7 +29,7 @@ The following libraries and tools are requirements:
         ./generate-projections.sh    
 
 
-## how to run
+## How to run
 
 - Generating job script by run scrip in folder jobs/generate-jobs as
 
@@ -62,10 +62,9 @@ https://docs.nvidia.com/cuda/cuda-samples/index.html
 ## tools
 
 https://jp.mathworks.com/matlabcentral/fileexchange/9416-3d-shepp-logan-phantom?s_tid=mwa_osa_a
-    
+
 https://www.openrtk.org/    
 
 
 ## MORE INFORMATION
 For more information or questions, contact the authors at chinhou0718#gmail.com (replace # by @, please)
-
