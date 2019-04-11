@@ -31,6 +31,8 @@ The following libraries and tools are requirements:
 
 ## How to run
 
+- all modules are in folder bin
+
 - Generating job script by run scrip in folder jobs/generate-jobs as
 
         python gen-jobs.py strong2k
