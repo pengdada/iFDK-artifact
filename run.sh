@@ -16,7 +16,16 @@ function run_job(){
 }
 
 
+echo $#
+
 for s in strong2k strong4k strong8k weak2k weak4k weak8k; do	
+	if [ $# -eq 1 ]; then
+		if [ "$s" == "$1" ]; then
+			echo "run all jobs : $s"
+		else
+			continue
+		fi
+	fi
 	run_job $s
 	batch-sub-jobs.sh $N
 
