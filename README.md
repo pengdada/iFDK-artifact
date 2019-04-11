@@ -12,8 +12,8 @@ The following libraries and tools are requirements:
     INTEL IPP 2018.2.199
     
 ## BUILD/RUN-TIME ENVIRONMENT
-We make a folder, called "local" at user's home directory. All tools, e.g. GCC, LLVM, CUDA-10.0, are managed in this folder as.
-   
+We make a folder, called "local" at user's home directory.
+
 
 ## DATA
 
