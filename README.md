@@ -24,7 +24,7 @@ The following libraries and tools are requirements:
 
         tools/phantom3d/phantom3d.m
 	
-	a sample of size 512^3 can be download from dropbox as
+	a sample of size 512^3 can be downloaded from dropbox as
 	https://www.dropbox.com/s/o0xgt4igipdve2l/Shepp-Logan-512x512x512.vol?dl=0
 
 - Generate 2D projection
