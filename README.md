@@ -43,6 +43,7 @@ The following libraries and tools are requirements:
         python gen-jobs.py weak8k
 
 - Run jobs in the Root-folder of iFDK-archifact
+	
 	./run.sh all
         ./run.sh strong2k
         ./run.sh strong4k
