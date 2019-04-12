@@ -44,13 +44,13 @@ The following libraries and tools are requirements:
 
 - Run jobs in the Root-folder of iFDK-archifact
 	
-	./run.sh all
-        ./run.sh strong2k
-        ./run.sh strong4k
-        ./run.sh strong8k
-        ./run.sh weak2k
-        ./run.sh weak4k
-        ./run.sh weak8k
+		./run.sh all
+		./run.sh strong2k
+		./run.sh strong4k
+		./run.sh strong8k
+		./run.sh weak2k
+		./run.sh weak4k
+		./run.sh weak8k
 
 - Run benchmarks
 
