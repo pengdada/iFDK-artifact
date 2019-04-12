@@ -19,7 +19,7 @@ The following libraries and tools are requirements:
 
 
 ## SOURCE CODE
-- Basically, our execution binary is available
+- Basically, our execution binary and part of source code are available
 
 - RTK-1.4.0 BP kernel with single precision
 the improved kernel can be found in 
