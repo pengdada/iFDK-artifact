@@ -22,7 +22,9 @@ The following libraries and tools are requirements:
 - Basically, our execution binary is available
 
 - RTK-1.4.0 BP kernel with single precision
-the improved kernel can be found in src/RTK/rtkCudaFDKBackProjectionImageFilter.cu
+the improved kernel can be found in 
+
+	src/RTK/rtkCudaFDKBackProjectionImageFilter.cu
 
 ## DATA
 
